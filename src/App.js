@@ -1,3 +1,4 @@
+//App.js
 import React, { useState, useEffect, useRef, useContext } from 'react';
 import { Moon, Sun, Plus, Trash2 } from 'lucide-react';
 
